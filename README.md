@@ -6,10 +6,13 @@ Soy una persona entusiasta especialista en programación Front End dedicado a tr
 ## 🛠️ Lenguajes y herramientas
 
 <p>
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3%20-%231572B6.svg?logo=css3&logoColor=white">
-  <img alt="CSS3" src="https://img.shields.io/badge/SASS%20-%DB7093.svg?logo=sass&logoColor=white">
-  <img alt="SASS" scr="https://img.shields.io/badge/SASS%20-%DB7093.svg?logo=sass&logoColor=white">
+  <img alt="SASS" src="https://img.shields.io/badge/SASS%20-CC6699.svg?logo=sass&logoColor=white">
+  <img alt="BOOTSTRAP" src="https://img.shields.io/badge/Bootstrap%20-7952B3.svg?logo=bootstrap&logoColor=white">
+  <img alt="GIT" src="https://img.shields.io/badge/Git%20-F05032.svg?logo=git&logoColor=white">
+  <img alt="GITHUB" src="https://img.shields.io/badge/GitHub%20-181717.svg?logo=github&logoColor=white">
+  
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"></a>
