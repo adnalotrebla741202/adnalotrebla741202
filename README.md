@@ -66,4 +66,7 @@ Soy una persona entusiasta especialista en programación Front End dedicado a tr
 
 ---
 
-## ¡Colaboremos!
+## :punch: ¡Colaboremos!
+:mailbox_with_no_mail: <strong>Correo:</strong> <a href="mailto:alandap@prodigy.net.mx">alandap@prodigy.net.mx
+<br>
+:link: <strong>LinkeIn:</strong> <a href="https://www.linkedin.com/in/alberto-landa-frontend">Alberto Landa - FrontEnd
