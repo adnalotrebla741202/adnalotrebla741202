@@ -54,6 +54,7 @@ Soy una persona entusiasta especialista en programación Front End dedicado a tr
 ## :triangular_ruler: Proyectos
 - <b>Práctica #2 de mi curso de FrontEnd de EBAC</b> <a href="https://github.com/adnalotrebla741202/ebac-practica02.git">[https://github.com/adnalotrebla741202/ebac-practica02.git]</a>.
   - En este proyecto cree mi primera estructura de un sitio web con las principales etiquetas de HTML como son <strong>&lt;title&gt;, &lt;a&gt;, &lt;body&gt;, &lt;div&gt;, &lt;h1&gt;, &lt;h2&gt;, ..., &lt;h6&gt;, &lt;html&gt;, &lt;hr&gt;, &lt;img&gt;, &lt;li&gt;, &lt;p&gt;, &lt;ol&gt;, &lt;span&gt;, &lt;ul&gt;, &lt;caption&gt;, &lt;tbody&gt;, &lt;table&gt;, &lt;td&gt;, &lt;th&gt;, &lt;thead&gt;, &lt;tfood&gt;, &lt;fieldset&gt;, &lt;form&gt;, &lt;input&gt;, &lt;label&gt;, &lt;option&gt;, &lt;select&gt;, &lt;textarea&gt;</strong>, entre otras.
+
 - <b>Práctica #3 de mi curso de FrontEnd de EBAC</b> <a href="https://github.com/adnalotrebla741202/ebac-practica03.git">[https://github.com/adnalotrebla741202/ebac-practica03.git]</a>.
   - Este sitio web se construyó aplicando el concepto de HTML semántico y diferenciando los tipos de elementos (bloque y en línea) y se insertó multimedia para identificar el rol de cada tipo de etiqueta y entidad en la estructura del sitio.
 - <b>Práctica #4 de mi curso de FrontEnd de EBAC</b> <a href="https://github.com/adnalotrebla741202/ebac-practica04.git">[https://github.com/adnalotrebla741202/ebac-practica04.git]</a>.
