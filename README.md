@@ -51,6 +51,23 @@ Soy una persona entusiasta especialista en programación Front End dedicado a tr
 
 ---
 
+## :triangular_ruler: Proyectos
+- <b>Práctica #2 de mi curso de FrontEnd de EBAC</b> <a href="https://github.com/adnalotrebla741202/ebac-practica02.git">(https://github.com/adnalotrebla741202/ebac-practica02.git).</a>
+  - En este proyecto cree mi primera estructura de un sitio web con las principales etiquetas de HTML como son <strong>&lt;title&gt;, &lt;a&gt;, &lt;body&gt;, &lt;div&gt;, &lt;h1&gt;, &lt;h2&gt;, ..., &lt;h6&gt;, &lt;html&gt;, &lt;hr&gt;, &lt;img&gt;, &lt;li&gt;, &lt;p&gt;, &lt;ol&gt;, &lt;span&gt;, &lt;ul&gt;, &lt;caption&gt;, &lt;tbody&gt;, &lt;table&gt;, &lt;td&gt;, &lt;th&gt;, &lt;thead&gt;, &lt;tfood&gt;, &lt;fieldset&gt;, &lt;form&gt;, &lt;input&gt;, &lt;label&gt;, &lt;option&gt;, &lt;select&gt;, &lt;textarea&gt;</strong>, entre otras.
+- <b>Práctica #3 de mi curso de FrontEnd de EBAC</b> <a href="https://github.com/adnalotrebla741202/ebac-practica03.git">(https://github.com/adnalotrebla741202/ebac-practica03.git).</a>
+- <b>Práctica #4 de mi curso de FrontEnd de EBAC</b> <a href="https://github.com/adnalotrebla741202/ebac-practica04.git">(https://github.com/adnalotrebla741202/ebac-practica04.git).</a>
+- <b>Práctica #5 de mi curso de FrontEnd de EBAC</b> <a href="https://github.com/adnalotrebla741202/ebac-practica05.git">(https://github.com/adnalotrebla741202/ebac-practica05.git).</a>
+- <b>Práctica #6 de mi curso de FrontEnd de EBAC</b> <a href="https://github.com/adnalotrebla741202/ebac-practica06.git">(https://github.com/adnalotrebla741202/ebac-practica06.git).</a>
+- <b>Práctica #7 de mi curso de FrontEnd de EBAC</b> <a href="https://github.com/adnalotrebla741202/ebac-practica07.git">(https://github.com/adnalotrebla741202/ebac-practica07.git).</a>
+- <b>Práctica #8 de mi curso de FrontEnd de EBAC</b> <a href="https://github.com/adnalotrebla741202/ebac-practica08.git">(https://github.com/adnalotrebla741202/ebac-practica08.git).</a>
+- <b>Práctica #9 de mi curso de FrontEnd de EBAC</b> <a href="https://github.com/adnalotrebla741202/ebac-practica09.git">(https://github.com/adnalotrebla741202/ebac-practica09.git).</a>
+- <b>Práctica #10 de mi curso de FrontEnd de EBAC</b> <a href="https://github.com/adnalotrebla741202/ebac-practica10.git">(https://github.com/adnalotrebla741202/ebac-practica10.git).</a>
+- <b>Práctica #11 de mi curso de FrontEnd de EBAC</b> <a href="https://github.com/adnalotrebla741202/ebac-practica11.git">(https://github.com/adnalotrebla741202/ebac-practica11.git).</a>
+- <b>Práctica #12 de mi curso de FrontEnd de EBAC</b> <a href="https://github.com/adnalotrebla741202/ebac-practica12.git">(https://github.com/adnalotrebla741202/ebac-practica12.git).</a>
+- <b>Práctica #13 de mi curso de FrontEnd de EBAC</b> <a href="https://github.com/adnalotrebla741202/ebac-practica13.git">(https://github.com/adnalotrebla741202/ebac-practica13.git).</a>
+
+---
+
 ## :bar_chart: Mi Actividad en GitHub
 
 <div align="center">
