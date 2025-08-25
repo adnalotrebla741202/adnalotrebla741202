@@ -97,6 +97,8 @@ Soy una persona entusiasta especialista en programación Front End dedicado a tr
   - En este proyecto se establece la base de la landing page para las suscripciones al newsletter de la revista <b>CARAS</b>. Para ello se desarrolló una estructura preliminar que define la organización y disposición general de los elementos. Se hizo la estructura HTML de la landing page; a esta estructura le dimos estilos con CSS y agregamos media queries para que sea responsiva.
 - <b>Práctica #CARAS_M10 de mi curso de FrontEnd de EBAC</b> <a href="https://github.com/adnalotrebla741202/ebac-caras_m10">[https://github.com/adnalotrebla741202/ebac-caras_m10]</a>.
   - En este proyecto se realiza la landing page para las suscripciones al newsletter de la revista CARAS. Para ello se desarrolló una estructura preliminar que define la organización y disposición general de los elementos. Se hizo la estructura HTML de la landing page; a esta estructura le dimos estilos con <strong>SASS</strong>, un preprocesador CSS que transforma nuestra forma de escribir y mantener el código CSS.
+- <b>Práctica #PROYECTO_M21 de mi curso de FrontEnd de EBAC</b> <a href="https://github.com/adnalotrebla741202/ebac-proyecto_m21">[https://github.com/adnalotrebla741202/ebac-proyecto_m21]</a>.
+  - Este proyecto es una tienda web de comida típica poblana. El usuario puede visualizar una lista de platillos (con imagen, nombre y precio), y agregar productos a un carrito de compras dinámico. El sistema permite aumentar o disminuir la cantidad de productos, eliminar productos individuales, vaciar el carrito por completo y confirmar una compra.
 
 ---
 
