@@ -106,7 +106,7 @@ Soy una persona entusiasta especialista en programación Front End dedicado a tr
 
 <div align="center">
   <br>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=adnalotrebla741202"></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnalotrebla741202">
   <br><br>
   <a src="https://github-readme-stats.vercel.app/api?username=adnalotrebla741202">
   <br><br>
