@@ -106,13 +106,13 @@ Soy una persona entusiasta especialista en programación Front End dedicado a tr
 
 <div align="center">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnalotrebla741202">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnalotrebla741202" alt="Alberto Landa Paleo's Most Used Languages" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=adnalotrebla741202">
+  <img src="https://github-readme-stats.vercel.app/api?username=adnalotrebla741202" alt="Alberto Landa Paleo's GitHub Stats" />
   <br><br>
-  <!--   <img src="https://github-profile-trophy.vercel.app/?username=adnalotrebla741202">
-  <br><br> -->
-  <img src="http://github-readme-streak-stats.herokuapp.com/?user=adnalotrebla741202&">
+  <img src="http://github-readme-streak-stats.herokuapp.com/?user=adnalotrebla741202&" />
+<!--   <br><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=adnalotrebla741202"> -->
 </div>
 
 ---
