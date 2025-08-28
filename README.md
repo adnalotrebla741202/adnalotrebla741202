@@ -110,7 +110,7 @@ Soy una persona entusiasta especialista en programación Front End dedicado a tr
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=adnalotrebla741202" alt="Alberto Landa Paleo's GitHub Stats" />
   <br><br>
-  <a target="_blank" href="http://github-readme-streak-stats.herokuapp.com/?user=adnalotrebla741202&"><b>Total Contributions</b></a>
+  ![Alberto Landa Paleo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=adnalotrebla741202&theme=default&hide_border=true)
 <!--   <br><br>
   <img src="https://github-profile-trophy.vercel.app/?username=adnalotrebla741202"> -->
 </div>
