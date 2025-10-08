@@ -1,6 +1,10 @@
 <h1>Hola , soy Alberto Landa! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3>Desarrollador FrontEnd | Apasionado por el diseño y la tecnología</h3>
-Soy una persona entusiasta especialista en programación Front End dedicado a traducir el diseño de un sitio a código HTML y CSS y de esta manera entregarle al usuario final una interfaz gráfica agradable, funcional e interactiva. Mi objetivo es que el usuario este contento con la interfaz web que usa y que esta le sea útil y fácil de usar sin importar en qué tipo de dispositivo está trabajando.
+<h3>Ingeniero en Comunicaciones y Electrónica | Desarrollador Front-End | Apasionado por la Tecnología</h3>
+Mi nombre es Alberto Landa y resido en Huejotzingo, Puebla. Aunque no soy fanático de los postres 🍬, sí tengo un gran gusto por la tecnología y el aprendizaje continuo.
+<br>
+Me entusiasma resolver problemas complejos a través del código y ver cómo una idea puede tomar forma en una solución funcional.
+<br>
+Con mi experiencia técnica, capacidad de adaptación, y una mentalidad enfocada en resultados, estoy preparado para <b>sumarme a equipos multidisciplinarios, liderar proyectos técnicos, o aportar soluciones prácticas y sostenibles.</b> Soy una persona resiliente, determinada y comprometida con que los proyectos se cumplan <b>en tiempo y forma.</b>
 
 ---
 
@@ -37,6 +41,12 @@ Soy una persona entusiasta especialista en programación Front End dedicado a tr
   <img alt="REDUX" src="https://img.shields.io/badge/Redux-764ABC.svg?logo=redux&logoColor=white">
   <img alt="JEST" src="https://img.shields.io/badge/Jest-C21325.svg?logo=jest&logoColor=white">
 </p>
+
+---
+
+## 📜 Certificaciones
+- 🎓 <b>Programador Front-End</b> – Escuela Británica de Artes Creativas y Tecnología (EBAC)<br>
+<em>Agosto 2025</em>
 
 ---
 
@@ -118,6 +128,8 @@ Soy una persona entusiasta especialista en programación Front End dedicado a tr
 ---
 
 ## :punch: ¡Colaboremos!
+Estoy abierto a <b>colaboraciones, proyectos freelance, mentorías técnicas o nuevas oportunidades laborales.</b> Si buscas a alguien que combine experiencia, pasión y compromiso, ¡estaré encantado de conectar contigo!
+<br>
 :mailbox_with_no_mail: <strong>Correo:</strong> <a href="mailto:alandap@prodigy.net.mx">alandap@prodigy.net.mx
 <br>
 :link: <strong>LinkeIn:</strong> <a href="https://www.linkedin.com/in/alberto-landa-frontend">Alberto Landa - FrontEnd
