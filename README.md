@@ -129,7 +129,7 @@ Con mi experiencia técnica, capacidad de adaptación, y una mentalidad enfocada
 
 ## :punch: ¡Colaboremos!
 Estoy abierto a <b>colaboraciones, proyectos freelance, mentorías técnicas o nuevas oportunidades laborales.</b> Si buscas a alguien que combine experiencia, pasión y compromiso, ¡estaré encantado de conectar contigo!
-<br>
+<br><br>
 :mailbox_with_no_mail: <strong>Correo:</strong> <a href="mailto:alandap@prodigy.net.mx">alandap@prodigy.net.mx
 <br>
 :link: <strong>LinkeIn:</strong> <a href="https://www.linkedin.com/in/alberto-landa-frontend">Alberto Landa - FrontEnd
