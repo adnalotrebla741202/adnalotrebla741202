@@ -45,8 +45,16 @@ Con mi experiencia técnica, capacidad de adaptación, y una mentalidad enfocada
 ---
 
 ## 📜 Certificaciones
-- 🎓 <b>Programador Front-End</b> – Escuela Británica de Artes Creativas y Tecnología (EBAC)<br>
-<em>Agosto 2025</em>
+- 🎓 <b>Programador Front-End</b> – Escuela Británica de Artes Creativas y Tecnología (EBAC).
+- 🎓 <b>Interpretación de la Norma ISO 27001:2022</b> - Global Standards.
+- 🎓 <b>JavaScript Desde Cero</b> - EducacionIT.
+- 🎓 <b>Introducción a Bases de Datos y SQL</b> - EducacionIT.
+- 🎓 <b>Desarrollo Web con HTML</b> - EducacionIT.
+- 🎓 <b>Python para no programadores</b> - EducacionIT.
+- 🎓 <b>Interpretación de la Norma ISO 27001:2013</b> - Applus.
+- 🎓 <b>Interpretación de la norma ISO 9001:2015</b> - ADSIG.
+- 🎓 <b>Sistemas de Gestión de Seguridad de la Información</b> - BSI.
+- 🎓 <b>Curso de diseño gráfico básico</b> - EDUMAC.
 
 ---
 
