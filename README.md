@@ -128,7 +128,7 @@ Con mi experiencia técnica, capacidad de adaptación, y una mentalidad enfocada
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=adnalotrebla741202" alt="Alberto Landa Paleo's GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adnalotrebla741202&theme=default&hide_border=false" alt="Alberto Landa Paleo's Streak" />
+  <img src="http://github-readme-streak-stats.herokuapp.com/?user=adnalotrebla741202" alt="Alberto Landa Paleo's Streak" />
 <!--   <br><br>
   <img src="https://github-profile-trophy.vercel.app/?username=adnalotrebla741202"> -->
 </div>
