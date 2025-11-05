@@ -117,6 +117,9 @@ Con mi experiencia técnica, capacidad de adaptación, y una mentalidad enfocada
   - En este proyecto se realiza la landing page para las suscripciones al newsletter de la revista CARAS. Para ello se desarrolló una estructura preliminar que define la organización y disposición general de los elementos. Se hizo la estructura HTML de la landing page; a esta estructura le dimos estilos con <strong>SASS</strong>, un preprocesador CSS que transforma nuestra forma de escribir y mantener el código CSS.
 - <b>Práctica #PROYECTO_M21 de mi curso de FrontEnd de EBAC</b> <a href="https://github.com/adnalotrebla741202/ebac-proyecto_m21">[https://github.com/adnalotrebla741202/ebac-proyecto_m21]</a>.
   - Este proyecto es una tienda web de comida típica poblana. El usuario puede visualizar una lista de platillos (con imagen, nombre y precio), y agregar productos a un carrito de compras dinámico. El sistema permite aumentar o disminuir la cantidad de productos, eliminar productos individuales, vaciar el carrito por completo y confirmar una compra.
+- <b>Reto QR Code Component de FrontEnd Mentor</b> <a href="https://github.com/adnalotrebla741202/frontend-mentor-qr-code">[https://github.com/adnalotrebla741202/frontend-mentor-qr-code]</a>.
+  - Este proyecto es una <b>tarjeta de componente QR (QR Code Component)</b> desarrollada como parte de un desafío de Frontend Mentor.
+Su objetivo es <b>practicar la maquetación web y los estilos con HTML y CSS</b>, reproduciendo un diseño estático y centrado en la presentación visual.
 
 ---
 
