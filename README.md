@@ -120,6 +120,8 @@ Con mi experiencia técnica, capacidad de adaptación, y una mentalidad enfocada
 - <b>Reto QR Code Component de FrontEnd Mentor</b> <a href="https://github.com/adnalotrebla741202/frontend-mentor-qr-code">[https://github.com/adnalotrebla741202/frontend-mentor-qr-code]</a>.
   - Este proyecto es una <b>tarjeta de componente QR (QR Code Component)</b> desarrollada como parte de un desafío de Frontend Mentor.
 Su objetivo es <b>practicar la maquetación web y los estilos con HTML y CSS</b>, reproduciendo un diseño estático y centrado en la presentación visual.
+- <b>Reto de desarrollo de un formulario multipasos de FrontEnd Mentor</b> <a href="https://github.com/adnalotrebla741202/Frontend-Mentor_Multi-step-form.git">[https://github.com/adnalotrebla741202/Frontend-Mentor_Multi-step-form.git]</a>.
+  - El proyecto es una <b>solución al desafío “Multi-step form” de Frontend Mentor</b>, es decir, <b>un formulario web de varios pasos (wizard)</b> donde el usuario va avanzando paso a paso para completar información y elegir opciones antes de enviar o confirmar.
 
 ---
 
