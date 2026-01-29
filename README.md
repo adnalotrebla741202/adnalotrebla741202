@@ -45,6 +45,8 @@ Con mi experiencia técnica, capacidad de adaptación, y una mentalidad enfocada
 ---
 
 ## 📜 Certificaciones
+- 🎓 <b>Propedéutico Inteligencia Artificial</b> - Tecnológico Nacional de México.
+- 🎓 <b>Scrum Fundamentals Certified</b> - SCRUMstudy.
 - 🎓 <b>Programador Front-End</b> – Escuela Británica de Artes Creativas y Tecnología (EBAC).
 - 🎓 <b>Interpretación de la Norma ISO 27001:2022</b> - Global Standards.
 - 🎓 <b>JavaScript Desde Cero</b> - EducacionIT.
