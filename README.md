@@ -1,5 +1,5 @@
 <h1>Hola , soy Alberto Landa! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3>Ingeniero en Comunicaciones y Electrónica | Desarrollador Front-End | Apasionado por la Tecnología</h3>
+<h3>Front End Developer | HTML5 • CSS3 • JavaScript | Responsive Web Design | Git | UI Implementation</h3>
 Mi nombre es Alberto Landa y resido en Huejotzingo, Puebla. Aunque no soy fanático de los postres 🍬, sí tengo un gran gusto por la tecnología y el aprendizaje continuo.
 <br>
 Me entusiasma resolver problemas complejos a través del código y ver cómo una idea puede tomar forma en una solución funcional.
