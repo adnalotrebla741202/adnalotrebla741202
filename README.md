@@ -45,10 +45,12 @@ Con mi experiencia técnica, capacidad de adaptación, y una mentalidad enfocada
 ---
 
 ## 📜 Certificaciones
+- 🎓 <b>Google Cloud Computing Foundations Certificate</b> - Google.
 - 🎓 <b>Propedéutico Inteligencia Artificial</b> - Tecnológico Nacional de México.
 - 🎓 <b>Scrum Fundamentals Certified</b> - SCRUMstudy.
 - 🎓 <b>Programador Front-End</b> – Escuela Británica de Artes Creativas y Tecnología (EBAC).
 - 🎓 <b>Interpretación de la Norma ISO 27001:2022</b> - Global Standards.
+- 🎓 <b>IA para programadores</b> - EducacionIT.
 - 🎓 <b>JavaScript Desde Cero</b> - EducacionIT.
 - 🎓 <b>Introducción a Bases de Datos y SQL</b> - EducacionIT.
 - 🎓 <b>Desarrollo Web con HTML</b> - EducacionIT.
@@ -135,12 +137,18 @@ Su objetivo es <b>practicar la maquetación web y los estilos con HTML y CSS</b>
 
 <div align="center">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnalotrebla741202" alt="Alberto Landa Paleo's Most Used Languages" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnalotrebla741202" alt="Alberto Landa Paleo's Most Used Languages" /> -->
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=adnalotrebla741202" alt="Alberto Landa Paleo's Most Used Languages">
+    <img width="300" height="243" alt="image" src="https://github.com/user-attachments/assets/be996a28-cd8b-4f71-bec5-969a6ce90846" />
+  </a>
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=adnalotrebla741202" alt="Alberto Landa Paleo's GitHub Stats" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=adnalotrebla741202" alt="Alberto Landa Paleo's GitHub Stats" /> -->
+  <a href="https://github-readme-stats.vercel.app/api?username=adnalotrebla741202" alt="Alberto Landa Paleo's GitHub Stats">
+    <img width="450" height="194" alt="image" src="https://github.com/user-attachments/assets/dbc675f1-776b-4bea-8d87-d437e209e6ab" />
+  </a>
   <br><br>
   <a href="https://streak-stats.demolab.com/?user=adnalotrebla741202" alt="Alberto Landa Paleo's Streak">
-    <img width="495" height="195" alt="image" src="https://github.com/user-attachments/assets/44a6b2c3-dd04-4e15-8ba5-c95c81564917" />
+    <img width="495" height="195" alt="image" src="https://github.com/user-attachments/assets/3ce08dfc-5553-4641-a87f-d97d8f2372c7" />
   </a>
   <!--
     <img src="https://streak-stats.demolab.com/?user=adnalotrebla741202&theme=default&hide_border=true" alt="Alberto Landa Paleo's Streak" />
