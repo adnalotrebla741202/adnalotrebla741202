@@ -144,7 +144,7 @@ Su objetivo es <b>practicar la maquetación web y los estilos con HTML y CSS</b>
   <br><br>
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=adnalotrebla741202" alt="Alberto Landa Paleo's GitHub Stats" /> -->
   <a href="https://github-readme-stats.vercel.app/api?username=adnalotrebla741202" alt="Alberto Landa Paleo's GitHub Stats">
-    <img width="450" height="194" alt="image" src="https://github.com/user-attachments/assets/dbc675f1-776b-4bea-8d87-d437e209e6ab" />
+    <img width="450" height="194" alt="image" src="https://github.com/user-attachments/assets/5ec421b3-8fdb-4da2-8656-6d635bbf3587" />
   </a>
   <br><br>
   <a href="https://streak-stats.demolab.com/?user=adnalotrebla741202" alt="Alberto Landa Paleo's Streak">
